@@ -1,8 +1,6 @@
 ### Hi there 👋
-
 # MSc Marco Antonio Cardoso Moreno
 I'm currently a PhD student at [Computing Research Center](https://www.cic.ipn.mx/), from Instituto Politécnico Nacional, in México.
-
 My current research interests include, in no specific order:
 - Brain Computer Interfaces
 - EEG Signal Processing
@@ -11,6 +9,25 @@ My current research interests include, in no specific order:
 - Explainable AI
 - Natural Language Processing
 - Computational Cognitive Science
+
+## Industry Work
+I work as an AI/ML engineer and Data Scientist, designing and delivering **Generative AI solutions** for enterprise clients. My projects typically involve architecting end-to-end pipelines on AWS, from ingestion and retrieval to inference and deployment.
+
+Some of the problems I work on:
+- **RAG pipelines** for document-grounded Q&A and semantic search (NL2SQL, knowledge base retrieval)
+- **Conversational AI agents** powered by Amazon Bedrock, including multi-turn chatbots and voice-to-voice agents
+- **Multi-tenant architectures** with authentication, RBAC, and session isolation
+- **Async event-driven systems** using decoupled microservices patterns
+- Scoping and delivering projects through structured Statements of Work across PoC and MVP phases
+
+### AWS Services I work with regularly
+- **AI/ML:** Amazon Bedrock (Agents, Knowledge Bases), Amazon Connect
+- **Compute:** AWS Lambda, Amazon EC2, Amazon ECS (Fargate)
+- **Messaging & Async:** Amazon SQS
+- **Storage & Search:** Amazon S3, Amazon OpenSearch Service, Amazon DynamoDB
+- **Auth & Security:** Amazon Cognito, AWS IAM, AWS Secrets Manager
+- **Networking & Delivery:** Amazon CloudFront, Amazon API Gateway, VPC
+- **Observability:** Amazon CloudWatch, AWS CloudTrail
 
 ## Technologies
 - Python
